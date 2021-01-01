@@ -1,0 +1,11 @@
+C:\Users\Josh\source\repos\1850vpw\1850vpw\bin\Testing\netcoreapp2.1\1850vpw.deps.json
+C:\Users\Josh\source\repos\1850vpw\1850vpw\bin\Testing\netcoreapp2.1\1850vpw.runtimeconfig.json
+C:\Users\Josh\source\repos\1850vpw\1850vpw\bin\Testing\netcoreapp2.1\1850vpw.runtimeconfig.dev.json
+C:\Users\Josh\source\repos\1850vpw\1850vpw\bin\Testing\netcoreapp2.1\1850vpw.dll
+C:\Users\Josh\source\repos\1850vpw\1850vpw\obj\Testing\netcoreapp2.1\1850vpw.csprojAssemblyReference.cache
+C:\Users\Josh\source\repos\1850vpw\1850vpw\obj\Testing\netcoreapp2.1\1850vpw.csproj.CoreCompileInputs.cache
+C:\Users\Josh\source\repos\1850vpw\1850vpw\obj\Testing\netcoreapp2.1\1850vpw.AssemblyInfoInputs.cache
+C:\Users\Josh\source\repos\1850vpw\1850vpw\obj\Testing\netcoreapp2.1\1850vpw.AssemblyInfo.cs
+C:\Users\Josh\source\repos\1850vpw\1850vpw\bin\Testing\netcoreapp2.1\1850vpw.pdb
+C:\Users\Josh\source\repos\1850vpw\1850vpw\obj\Testing\netcoreapp2.1\1850vpw.dll
+C:\Users\Josh\source\repos\1850vpw\1850vpw\obj\Testing\netcoreapp2.1\1850vpw.pdb
